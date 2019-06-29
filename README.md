@@ -1,1 +1,1 @@
-# MediaWiki
+# mediaWiki
